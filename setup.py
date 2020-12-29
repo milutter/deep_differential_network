@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='deep_differential_network',
     version='0.1',
-    url='https://git.ias.informatik.tu-darmstadt.de/lutter/deep_differential_network',
+    url='https://github.com/milutter/deep_differential_network.git',
 
     description='This package provides an implementation of a Deep Differential Network. This '
                 'network architecture is a variant of a fully connected network that in addition '

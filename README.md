@@ -159,7 +159,7 @@ Performance of the Different Models:
 ## Installation:
 For installation this python package can be cloned and installed via pip
 ```
-git clone https://git.ias.informatik.tu-darmstadt.de/lutter/deep_differential_network.git deep_differential_network
+git clone https://github.com/milutter/deep_differential_network.git deep_differential_network
 pip install deep_differential_network
 ```
 
